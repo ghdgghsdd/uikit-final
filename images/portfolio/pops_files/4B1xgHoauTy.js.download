@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["BcyWH"]); }
+
+__d("MessengerDecoratorHideable.react",["cx","React"],(function(a,b,c,d,e,f,g){"use strict";function a(a){var c=a.isActive;a=a.children;return b("React").jsx("span",{className:c?"":"_8sow",children:a})}e.exports=a}),null);
